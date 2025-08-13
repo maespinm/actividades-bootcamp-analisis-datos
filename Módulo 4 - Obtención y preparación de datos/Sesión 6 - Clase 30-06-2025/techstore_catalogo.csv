@@ -1,0 +1,11 @@
+﻿product_id,product_name,category,unit_cost,unit_price
+1001,Laptop Pro 14,Computadores,575000,892000
+1002,Laptop Air 13,Computadores,596000,796000
+1003,Smartphone X,Móviles,937000,1344000
+1004,Smartphone Lite,Móviles,902000,1398000
+1005,Tablet Plus,Tablets,979000,1605000
+1006,Tablet Mini,Tablets,611000,1040000
+1007,Auriculares NoiseX,Accesorios,748000,1115000
+1008,Smartwatch Z,Accesorios,585000,780000
+1009,Monitor UltraWide,Monitores,798000,1152000
+1010,Teclado Mecánico,Periféricos,935000,1641000
