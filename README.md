@@ -31,39 +31,6 @@ Este bootcamp y las actividades aquí presentadas utilizan principalmente:
 * **Control de Versiones:** Git y GitHub
 
 ---
-## 📝 Cómo Usar este Repositorio
-
-1. **Clona este repositorio en tu máquina local:**
-    ```bash
-    git clone https://github.com/mark-espinoza/bootcamp-analisis-datos.git
-    ```
-
-2. **Entra a la carpeta del proyecto:**
-    ```bash
-    cd bootcamp-analisis-datos
-    ```
-
-3. **Crea y activa un entorno virtual (opcional, pero recomendado):**
-    ```bash
-    python -m venv venv
-    source venv/bin/activate   # En Linux/Mac
-    venv\Scripts\activate      # En Windows
-    ```
-
-4. **Instala las dependencias necesarias:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-    > Si no existe el archivo `requirements.txt`, puedes instalar las librerías manualmente:
-    ```bash
-    pip install pandas numpy matplotlib seaborn jupyter
-    ```
-
-5. **Inicia Jupyter Notebook:**
-    ```bash
-    jupyter notebook
-    ```
----
 
 ## 📞 Contacto
 
