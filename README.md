@@ -36,9 +36,9 @@ Este bootcamp y las actividades aquí presentadas utilizan principalmente:
 
 Para explorar las actividades y ejecutar los cuadernos Jupyter:
 
-1.  **Clona el repositorio:**
+1. **Clona el repositorio:**
     ```bash
-    git clone [https://github.com/tu-usuario/nombre-de-tu-repositorio.git](https://github.com/tu-usuario/nombre-de-tu-repositorio.git)
+    git clone https://github.com/mark-espinoza/bootcamp-analisis-datos.git
     ```
 2.  **Navega a la carpeta del proyecto:**
     ```bash
